@@ -1,0 +1,9 @@
+---
+title: "About Cam"
+description: |
+  Some additional details about the blog: I am a student in Digital Media at GW building my first website! I'm a little confused but very excited!! 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

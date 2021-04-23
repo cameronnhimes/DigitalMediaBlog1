@@ -1,0 +1,255 @@
+---
+title: "Welcome to Cam's Blog"
+description: |
+  Welcome to our new blog, Cam's Blog. I hope this works LOL
+author:
+  - name: Cam  
+    url: https://example.com/welcome
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+date: 04-19-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+Error messages
+
+> distill:create_post("mapping assignment tutorial")
+Error: object 'distill' not found
+> distill::create_post("mapping assignment tutorial")
+v Created post at _posts/2021-04-19-mapping-assignment-tutorial 
+> distill::create_post("First R - intro - assignment tutorial")
+v Created post at _posts/2021-04-19-first-r-intro-assignment-tutorial 
+> usethis::use_git()
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+✓ Initialising Git repo
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Error: .onLoad failed in loadNamespace() for 'credentials', details:
+  call: NULL
+  error: Failed to call 'git help -a'
+> usethis::use_git()
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+✓ Initialising Git repo
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Error: .onLoad failed in loadNamespace() for 'credentials', details:
+  call: NULL
+  error: Failed to call 'git help -a'
+
+Restarting R session...
+
+> usethis::create_github_token()
+● Call `gitcreds::gitcreds_set()` to register this token in the local Git credential store
+  It is also a great idea to store this token in any password-management software that you use
+✓ Opening URL 'https://github.com/settings/tokens/new?scopes=repo,user,gist,workflow&description=R:GITHUB_PAT'
+> 
+> library(usethis)
+> usethis::use_git()
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+✓ Initialising Git repo
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Error: .onLoad failed in loadNamespace() for 'credentials', details:
+  call: NULL
+  error: Failed to call 'git help -a'
+> usethis::use_git()
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+✓ Initialising Git repo
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Error: .onLoad failed in loadNamespace() for 'credentials', details:
+  call: NULL
+  error: Failed to call 'git help -a'
+> usethis::use_git()
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+✓ Initialising Git repo
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Error: .onLoad failed in loadNamespace() for 'credentials', details:
+  call: NULL
+  error: Failed to call 'git help -a'
+
+Restarting R session...
+
+> usethis::use_git()
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+✓ Initialising Git repo
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Error: .onLoad failed in loadNamespace() for 'credentials', details:
+  call: NULL
+  error: Failed to call 'git help -a'
+> usethis::use_git()
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+✓ Initialising Git repo
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Error: .onLoad failed in loadNamespace() for 'credentials', details:
+  call: NULL
+  error: Failed to call 'git help -a'
+> usethis::use_github()
+ℹ Defaulting to 'https' Git protocol
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Error: Cannot detect that project is already a Git repository.
+Do you need to run `use_git()`?
+> y
+Error: object 'y' not found
+> yes
+Error: object 'yes' not found
+> use_git()
+Error in use_git() : could not find function "use_git"
+> use_git()
+Error in use_git() : could not find function "use_git"
+> gitcreds::gitcreds_set("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
++ ")
+Error in gitcreds::gitcreds_set("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\n") : 
+  has_no_newline(url) is not TRUE
+> gitcreds::gitcreds_set("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")
+Error in gitcreds_cache_envvar(url) : 
+  Invalid URL(s): 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
+
+> gitcreds::gitcreds_set()
+
+-> Your current credentials for 'https://github.com':
+
+  protocol: https
+  host    : github.com
+  username: cameronnhimes
+  password: <-- hidden -->
+
+-> What would you like to do? 
+
+1: Keep these credentials
+2: Replace these credentials
+3: See the password / token
+
+Selection: 2
+
+-> Removing current credentials...
+
+? Enter new password or token: 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
+-> Adding new credentials...
+-> Removing credetials from cache...
+-> Done.
+> usethis::use_github()
+✓ Setting active project to '/Users/cameronhimes/Desktop/Digital Media/DigitalMediaBlog1'
+Error: Cannot detect that project is already a Git repository.
+Do you need to run `use_git()`?
+> use_git()
+Error in use_git() : could not find function "use_git"
+> usethis::use_git()
+✓ Initialising Git repo
+✓ Adding '.Rproj.user', '.Rhistory', '.Rdata', '.httr-oauth', '.DS_Store' to '.gitignore'
+There are 7 uncommitted files:
+* '_posts/'
+* '_site.yml'
+* '_site/'
+* '.gitignore'
+* 'about.Rmd'
+* 'DigitalMediaBlog1.Rproj'
+* 'index.Rmd'
+Is it ok to commit them?
+
+1: Nope
+2: Yeah
+3: Negative
+
+Selection: 2
+✓ Adding files
+✓ Making a commit with message 'Initial commit'
+Error in libgit2::git_signature_default : 
+  config value 'user.name' was not found
+
+Restarting R session...
+
+> usethis::use_git()
+✓ Setting active project to '/Users/cameronhimes/Desktop/Digital Media/DigitalMediaBlog1'
+There are 56 uncommitted files:
+* '_posts/2021-04-19-first-r-intro-assignment-tutorial/first-r-intro-assignment-tutorial.Rmd'
+* '_posts/2021-04-19-mapping-assignment-tutorial/mapping-assignment-tutorial.Rmd'
+* '_posts/welcome/welcome_files/anchor-4.2.2/anchor.min.js'
+* '_posts/welcome/welcome_files/bowser-1.9.3/bowser.min.js'
+* '_posts/welcome/welcome_files/distill-2.2.21/template.v2.js'
+* '_posts/welcome/welcome_files/header-attrs-2.7/header-attrs.js'
+* '_posts/welcome/welcome_files/jquery-1.11.3/jquery.min.js'
+* '_posts/welcome/welcome_files/popper-2.6.0/popper.min.js'
+* '_posts/welcome/welcome_files/tippy-6.2.7/tippy-bundle.umd.min.js'
+* '_posts/welcome/welcome_files/tippy-6.2.7/tippy-light-border.css'
+* ...
+Is it ok to commit them?
+
+1: Nope
+2: Yeah
+3: Not now
+
+Selection: 3
+
+Restarting R session...
+
+> usethis::use_git()
+✓ Setting active project to '/Users/cameronhimes/Desktop/Digital Media/DigitalMediaBlog1'
+There are 56 uncommitted files:
+* '_posts/2021-04-19-first-r-intro-assignment-tutorial/first-r-intro-assignment-tutorial.Rmd'
+* '_posts/2021-04-19-mapping-assignment-tutorial/mapping-assignment-tutorial.Rmd'
+* '_posts/welcome/welcome_files/anchor-4.2.2/anchor.min.js'
+* '_posts/welcome/welcome_files/bowser-1.9.3/bowser.min.js'
+* '_posts/welcome/welcome_files/distill-2.2.21/template.v2.js'
+* '_posts/welcome/welcome_files/header-attrs-2.7/header-attrs.js'
+* '_posts/welcome/welcome_files/jquery-1.11.3/jquery.min.js'
+* '_posts/welcome/welcome_files/popper-2.6.0/popper.min.js'
+* '_posts/welcome/welcome_files/tippy-6.2.7/tippy-bundle.umd.min.js'
+* '_posts/welcome/welcome_files/tippy-6.2.7/tippy-light-border.css'
+* ...
+Is it ok to commit them?
+
+1: Nope
+2: Absolutely not
+3: For sure
+
+Selection: 2
+
+Restarting R session...
+
+> usethis::use_git()
+✓ Setting active project to '/Users/cameronhimes/Desktop/Digital Media/DigitalMediaBlog1'
+There are 56 uncommitted files:
+* '_posts/2021-04-19-first-r-intro-assignment-tutorial/first-r-intro-assignment-tutorial.Rmd'
+* '_posts/2021-04-19-mapping-assignment-tutorial/mapping-assignment-tutorial.Rmd'
+* '_posts/welcome/welcome_files/anchor-4.2.2/anchor.min.js'
+* '_posts/welcome/welcome_files/bowser-1.9.3/bowser.min.js'
+* '_posts/welcome/welcome_files/distill-2.2.21/template.v2.js'
+* '_posts/welcome/welcome_files/header-attrs-2.7/header-attrs.js'
+* '_posts/welcome/welcome_files/jquery-1.11.3/jquery.min.js'
+* '_posts/welcome/welcome_files/popper-2.6.0/popper.min.js'
+* '_posts/welcome/welcome_files/tippy-6.2.7/tippy-bundle.umd.min.js'
+* '_posts/welcome/welcome_files/tippy-6.2.7/tippy-light-border.css'
+* ...
+Is it ok to commit them?
+
+1: Absolutely
+2: No way
+3: Nope
+
+Selection: 1
+✓ Adding files
+✓ Making a commit with message 'Initial commit'
+Error in libgit2::git_signature_default : 
+  config value 'user.name' was not found

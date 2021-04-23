@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Cam's Blog",
+    "description": "Welcome to our new blog, Cam's Blog. I hope this works LOL",
+    "author": [
+      {
+        "name": "Welcome",
+        "url": "https://example.com/welcome"
+      }
+    ],
+    "date": "2021-04-19",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-04-19T10:22:21-04:00",
+    "input_file": "welcome.utf8.md"
+  }
+]
