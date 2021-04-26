@@ -1,0 +1,23 @@
+---
+title: "work samples"
+description: |
+  A short description of the post.
+author:
+  - name: Welcome
+    url: https://example.com/welcome
+date: 04-26-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
