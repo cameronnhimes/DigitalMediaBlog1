@@ -9,4 +9,15 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+      text: "weekly assignments"
+     menu:
+    text: BLANK
+    href: BLANK
+    text: BLANK
+    href: BLANK
 output: distill::distill_article
+base_url: https://digitalmediacamsblog.netlify.app
+collections: 
+  posts: 
+  share: [twitter, linkedin]
+  
