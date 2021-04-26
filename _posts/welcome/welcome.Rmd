@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Cam's Blog"
 description: |
-  Welcome to our new blog, Cam's Blog. I hope this works LOL
+  Welcome to my new blog, Cam's Blog. I hope this works LOL
 author:
   - name: Cam  
     url: https://example.com/welcome
