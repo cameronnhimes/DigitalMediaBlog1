@@ -4,9 +4,9 @@ description: |
   Welcome to my new blog, Cam's Blog. I hope this works LOL
 author:
   - name: Cam  
-    url: https://example.com/welcome
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+    url: https://digitalmediacamsblog.netlify.app
+    affiliation: The George Washington University 
+    affiliation_url:
 date: 04-19-2021
 output:
   distill::distill_article:

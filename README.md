@@ -9,5 +9,7 @@
 
 <!-- badges: end -->
 
-The goal of DigitalMediaBlog1 is to ...
+The goal of DigitalMediaBlog1 is to experiment with Distill as part of a GW course. 
+
+The website assocaited with this repo is located at: 
 
