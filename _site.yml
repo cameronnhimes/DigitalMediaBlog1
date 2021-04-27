@@ -15,8 +15,7 @@ navbar:
       href: skills.html
       text: "Work Samples"
      menu:
-     
-
+      
 output: distill::distill_article
 base_url: https://digitalmediacamsblog.netlify.app
 collections: 

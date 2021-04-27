@@ -3,7 +3,7 @@ title: "experience"
 description: |
 Professional and leadership experience
 author:
-  - name: Welcome
+  - name: Cam
     url: https://example.com/welcome
 date: 04-26-2021
 output:
