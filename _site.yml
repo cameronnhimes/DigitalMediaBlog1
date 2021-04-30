@@ -10,7 +10,7 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Experience"
-      href: experience.html
+      href: posts/2021-04-29-experience/index.html
     - text: "Skills"
       href: posts/2021-04-26-skills/index.html
     - text: "Work Samples"
