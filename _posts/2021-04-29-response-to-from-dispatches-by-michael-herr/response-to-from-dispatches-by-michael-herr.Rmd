@@ -1,0 +1,30 @@
+---
+title: "Response to From Dispatches by Michael Herr"
+description: |
+  A short description of the post.
+author:
+  - name: Cam
+    url: https://example.com/welcome
+date: 04-29-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+Please write a 250-word blog post commenting on how Herr does or does not illustrate what Schudson described as the new attitude towards "objectivity" that came about partly as a result of the war in Vietnam.  Due by class time on Tuesday.  Please also comment on the posts of two of your classmates.
+
+Schudson writes, “in the 1960s “objectivity became a term of abuse. In the thirties, critics who had attacked objectivity favored interpretative reporting as a way of maintaining professional standing in a world which had outgrown the blunt approach of “just getting the facts.” But in the sixties, the goal of professionalism itself has become suspect” (160). Herr writes in From Dispatches with a tone of factual reporting and reflects the characteristics of the new “objectivity” Schudson describes. Schudson describes one of the characteristics of the new objectivity as being the conflict “between the institutional responsibilities of powerful newspapers and the individual bravado of younger airports. Not least, the journal story was itself a part of the set: in the sixties, as never before, news writing was itself a topic for news coverage” (161). Herr writes about how he covered the Vietnam war in his reporting, when he discusses how he moved from place to place in helicopters. Herr describes how “in the months after I got back the hundreds of helicopters, I’d flown in begna to draw together until they’d formed a collective meta-chopper, and in my mind it was the sexiest thing going” (497). Another characteristic Schudson describes is the comparison of “in the past, the resentment of young reporters against editors was occasioned only by a conflict of interests on the job. It was not connected to broader political currents, and it did not express itself in a political idiom. In the sixties, however, the generational rebellion was part of a general cultural crisis” (162). Herr conveys not “just the facts” but as he has interpreted as the emotions of the soldiers in Vietnam. He also doesn’t seem to clarify with those soldiers how they’re feeling but writes expressively about how he assumes they must be feeling. One example is when he interacted with a marine at dinner and the marine references disappointment with dinner but Herr went on to describe how “he had one of those faces, I saw that face at least a thousand times at a hundred bases and camps, all the youth sucked out of the eyes, the color drawn from the skin, cold white lips, you knew he wouldn’t wait for any of it to come back. Life had made him old, he’d live it out old.” (502 From Dispatches Michael Herr). Herr’s description of this seasoned and torn apart young marine is a political statement in accordance with the anti-war sentiment at that time. 
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+

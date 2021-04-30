@@ -1,0 +1,105 @@
+---
+title: "Experience"
+description: |
+  A short description of the post.
+author:
+  - name: Cam
+    url: https://example.com/welcome
+date: 04-29-2021
+output:
+  distill::distill_article:
+    self_contained: false
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+RELEVANT EXPERIENCE
+
+Manier Laboratory at GWU
+
+Washington DC
+
+Laboratory Assistant
+
+September 2018 - Current
+
+Assist in research focusing on selective forces driving evolution of Drosophila sperm morphology to better understand the functional, genetic and developmental processes that generate extreme variation in sperm and SR protein length.
+Aided in the phenotyping of over 300 DSPR lines and experimentally-raised sperm and SR to identify variations.
+Breed and maintain stocks to control generation times; aid in light microscopy, dissected reproductive tracts of Drosophila.
+With help of mentor, designed, proposed, conducted, interpreted, and summarized scientific research.
+
+Summer Research Fellowship
+
+June 2019 -- August 2019
+
+This fellowship was funded by the National Science Foundation grant.
+Under the supervision of Professor Mollie Manier I worked on a reexamination of the evolution of the female sperm storage organ and epigenetics in alcohol tolerance in Drosophila.
+Communicated findings using graphs and scientific writing to colleagues and lay audiences in a poster presented in Fall 2019 at the Harlan Poster Presentation.
+Virtually presented Poster at Genetics Society of America 2020 The Allied Genetics Conference.
+
+Harlan Summer Research Fellowship
+
+May 2020 - August 2020
+
+Completed a comprehensive literature review to find more remating rates, SR and sperm length data for more Drosophila species to measure the strength of sexual selection.
+Collaborated with researchers at other academic institutions to convert supplemental data to a streamlined measurement.
+Collaborated with professors at other academic institutions to analyze morphological traits and phylogenetic history.
+Converted remating rates to a standard metric for streamlined comparisons and analysis.
+
+Luther Rice Research Fellowship
+
+September 2020 - May 2021
+
+Reared multiple species of Drosophila using laboratory instruments including incubators and autoclaves.
+Carried out a molecular phylogenetic analysis across 51 species using R, MAFFT, and RAxML on Cipres.
+Worked with large data sets in R to quantify microevolution in 51 Drosophila species.
+In the process of writing a scientific paper summarizing experimental results.
+
+ADDITIONAL EXPERIENCE
+
+For The Love of Children
+
+Adams Morgan, DC Tutor
+
+September 2017 - May 2018
+
+Aided 4th and 7th graders in identifying current skill levels and filling the knowledge gaps.
+Mentored a student struggling with math through a foundational approach to tutoring.
+
+Physics Department at GWU
+
+Washington DC
+
+Undergraduate Learning Assistant
+
+September 2019- May 2020
+
+Facilitated discussion and solved problems in General Physics 1.
+Guided students on homework and class material in office hours.
+
+ACTIVITIES
+
+GWU CHAARG (Changing Health, Attitudes and Actions to Recreate Girls)
+
+Washington, DC
+
+Secretary, Small Group Coordinator, Affinity Coordinator
+
+May 2017 - May 2020
+
+Assist Ambassador and Executive Team to lead a group of over 160 women in an effective and engaging manner; record and disseminate meeting minutes.
+
+Create leadership documents to manage attendance for 2-3 activities a week and created a monthly membership report synthesizing this data.
+Participated in CHAARG Strong, a national program that helps to grow and develop leaders.
+Pi Beta Phi Fraternity DC Alpha Chapter Active Member and Assistant Administrative Chair September 2018 - Current Actively attend Pi Beta Phi events and meetings.
+Participate in philanthropy efforts for Reading Partners, Lead Read Achieve and The Pi Beta Phi Foundation.
+Organize and facilitate chapter excuses.
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.

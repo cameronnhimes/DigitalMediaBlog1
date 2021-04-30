@@ -11,29 +11,11 @@ output:
     self_contained: false
 ---
 
+The George Washington University (GWU) Washington, DC\
+Bachelor of Science Major in Biology, Minor in Mass Communication and Journalism Expected Graduation:May 2021 Relevant coursework: Feature Writing, Narrative Journalism, Media in a Digital Age (Data Journalism) The George Washington University (GWU) Washington, DC Master of Science in Biological Sciences Expected Graduation:May 2022
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-#The George Washington University (GWU)					       		            Washington, DC	       
-#Bachelor of Science Major in Biology, Minor in Mass Communication and Journalism 		   Expected Graduation:May 2021
-#Relevant coursework: Feature Writing, Narrative Journalism, Media in a Digital Age (Data Journalism) 
-#The George Washington University (GWU)					       		            Washington, DC	       Master of Science in Biological Sciences 							   Expected Graduation:May 2022
-
-
-```
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-#Skills/Certifications: Microsoft Word, PowerPoint, Prezi, MailChimp, EventBrite; NREMT, Proficient in R Studio.
-#Molecular Biology Laboratory Skills: Agarose Gel Electrophoresis, Western Blotting, Use of restriction enzymes.
-
-
-```
+Skills/Certifications: Microsoft Word, PowerPoint, Prezi, MailChimp, EventBrite; NREMT, Proficient in R Studio. Molecular Biology Laboratory Skills: Agarose Gel Electrophoresis, Western Blotting, Use of restriction enzymes.
 
 Distill is a publication format for scientific and technical writing, native to the web.
 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
-
-

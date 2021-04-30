@@ -1,0 +1,32 @@
+---
+title: "Response to Documentary Expression in Thirties America"
+description: |
+  A short description of the post.
+author:
+  - name: Cam
+    url: https://example.com/welcome
+date: 04-29-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+Please read the first 140 pages of Documentary Expression in Thirties America.  Find one thing that has personal meaning for you – maybe it is re-thinking the meaning of a book or movie like “The Grapes of Wrath,” maybe it is seeing a WPA mural in your hometown with new eyes, maybe it is a new way of thinking about the meaning of the New Deal, maybe it is a conversation with one of your grandparents.  Write a 250 blog post on this thing that you have learned about the Great Depression and documentary expression in the 1930s, and comment on the posts of two of your colleagues.  Be prepared to discuss in class.  Due before class on Thursday.
+
+My mom’s father was born on September 9, 1929. He was 1 month and 20 days old when the market crashed. His family was severely affected by the Great Depression. William Scott writes, “But to read a human document thus overlooks what is unique and primary: the glimpse it offers of an inner existence, a private self” (7). One can read my grandfather’s birth certificate and know his age but nothing definitive of his life. The Great Depression extremely affected the way he lived his life. Unfortunately, he passed a couple years before I was born but my mother recounts how living through the Depression made him appreciate things because he used to say, “I had to sleep in a chair in his family's one bedroom apartment. But he felt bad for his brother who he claimed, “had to sleep in a drawer instead of a crib.” They never had their own bedroom while they were kids. This appreciation for things was lifelong as exemplified later in his life when my mother pointed out that his sweater had a hole in it and he replied “99% of the sweater is still good.” 
+
+Through the “Documentary Expression and Thirties America” reading I learned firstly that my grandpa was most likely influenced by the documentary style in this time period to tell her daughter about his upbringing in such a way. The author describes how people would often tell “stories and [tell] them with such simple and blunt directness that they made many a citizen wince” and my grandpa’s recollections certainly do illicit that response (11). 
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+

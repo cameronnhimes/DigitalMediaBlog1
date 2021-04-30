@@ -1,0 +1,31 @@
+---
+title: "A response to the 1619 Project"
+description: |
+  A short description of the post.
+author:
+  - name: Cam
+    url: https://example.com/welcome
+date: 04-29-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+The white colonial printer's version of independence was the freedom to express ideas contrary to those in Britain and those in power in America. While the 18th century black American’s version of independence was to live without the cruelties and constraints of a racial caste and for their human rights to be recognized. 
+Nikole Hannah-Jones describes her family's experience with slavery, the Jim Crow era and instutuional racism in “The 1619 Project.” This article displays for the majority of Black American’s independence means not having their ambition stunted by the color of their skin and having equal rights to those who have been given opportunities based on their lighter skin color. Hannah-Jones describes when she taught in school that “we [black Americas] had contributed little to this great nation.” Independence for black Americans means the acknowledgment of the truth that they contributed immensely to this nation, the truth that they are not subordinate to white Americans and the truth that “The United States is a nation founded on both an ideal and a lie.” 
+Colonial printer’s in the 18th century saw independence as the ability to print and distribute ideas that were oppositional to politicians and rulers without harmful repercussions. It is hard to appreciate the 18th century American printer’s fight for their notion of independence and freedom of speech when they chose not to represent so many voices. However, it is easy to look back from my 2021 perspective and be confident in what I would have done in the 18th century and perhaps without the colonial printer’s fight for their version of independence it may not have been possible to fight for black American’s version of indepence of today (which is not complete independence, but that’s not the point of this blog post).  
+
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+

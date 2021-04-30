@@ -1,0 +1,30 @@
+---
+title: "Response to 1999 Soldiers Without Swords"
+description: |
+  A short description of the post.
+author:
+  - name: Cam
+    url: https://example.com/welcome
+date: 04-29-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+Of everything you saw in the 1999 PBS documentary "Soldiers Without Swords," what surprised you the most about the history of the Black press in America?  Please write a 250 word blog post -- referring specifically to The California Eagle, The Chicago Defender, or the Pittsburgh Courier,  and comment on the posts of two of your classmates.  
+
+One aspect of Black journalism I was surprised about was how it mobilized people to move to different areas of the United States. In the 1999 documentary “Soldier Without Swords,” it’s pointed out that “The California Eagle was a dynamic force for social change for African Americans in California. First, it really recruited African Americans to Los Angeles. It told people how to get jobs, it told people how to get housing, it helped people actually settle in Los Angeles and make it a community.” A bit later in history and the documentary, it mentions how Robert S. Abbott at The Chicago Defender was inspiring people to move North. I was surprised by the “sense of faith that comes in part from reading the chicago defender.” I look to newspapers more for information but the information that Robert S. Abbott was writing was inspirational to the black population in America at that time. People were writing to him about how they were moving North because of his words and they were inspired to migrate for a better life. 
+Another aspect of Black journalism I learned was how they wrote about stereotypes in the media, particularly movies. I learned that The California Eagle did something I didn’t think had come about until much later years. Charlotta Bass, in response to The Birth of a Nation, wrote “we of the Eagle pioneered in an important field of social struggle, the struggle to make the film industry responsible morally for the content of its products: the struggle to lift higher artistic standards in the entertainment world, standards reflecting a sense of social duty and propriety rather than prejudge and vainglory.” Robert S. Abbott expanded upon this idea in the The Chicago Defender, when he writes about how the black press “gave them an opportunity to establish their own image, their own identity, and to tell each other what they thought of themselves, separate from that mainstream.”
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+

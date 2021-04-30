@@ -9,13 +9,24 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-      text: "Experience"
+    - text: "Experience"
       href: experience.html
-      text: "Skills"
-      href: skills.html
-      text: "Work Samples"
-     menu:
-      
+    - text: "Skills"
+      href: posts/2021-04-26-skills/index.html
+    - text: "Work Samples"
+      menu:
+      - text: "trend workout"
+        href: 
+      - text: "boat place feature"
+        href: 
+      - text: "A response to the 1619 Project"
+        href: 
+      - text: "Response to 1999 Soldiers Without Swords"
+        href: 
+      - text: "Response to Documentary Expression in Thirties America"
+        href: 
+      - text: "Response to From Dispatches by Michael Herr"
+        href: 
 output: distill::distill_article
 base_url: https://digitalmediacamsblog.netlify.app
 collections: 

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Cam's Blog</title>
+    <link>https://digitalmediacamsblog.netlify.app</link>
+    <atom:link href="https://digitalmediacamsblog.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Cam's Blog
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>trend feature</title>
+      <dc:creator>Cam</dc:creator>
+      <link>https://digitalmediacamsblog.netlify.app/posts/2021-04-29-trend-feature</link>
+      <description>A short description of the post.</description>
+      <guid>https://digitalmediacamsblog.netlify.app/posts/2021-04-29-trend-feature</guid>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>boat place feature</title>
+      <dc:creator>Cam</dc:creator>
+      <link>https://digitalmediacamsblog.netlify.app/posts/2021-04-29-boat-place-feature</link>
+      <description>A short description of the post.</description>
+      <guid>https://digitalmediacamsblog.netlify.app/posts/2021-04-29-boat-place-feature</guid>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A response to the 1619 Project</title>
+      <dc:creator>Cam</dc:creator>
+      <link>https://digitalmediacamsblog.netlify.app/posts/2021-04-29-a-response-to-the-1619-project</link>
+      <description>A short description of the post.</description>
+      <guid>https://digitalmediacamsblog.netlify.app/posts/2021-04-29-a-response-to-the-1619-project</guid>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Response to 1999 Soldiers Without Swords</title>
+      <dc:creator>Cam</dc:creator>
+      <link>https://digitalmediacamsblog.netlify.app/posts/2021-04-29-response-to-1999-soldiers-without-swords</link>
+      <description>A short description of the post.</description>
+      <guid>https://digitalmediacamsblog.netlify.app/posts/2021-04-29-response-to-1999-soldiers-without-swords</guid>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Response to Documentary Expression in Thirties America</title>
+      <dc:creator>Cam</dc:creator>
+      <link>https://digitalmediacamsblog.netlify.app/posts/2021-04-29-response-to-documentary-expression-in-thirties-america</link>
+      <description>A short description of the post.</description>
+      <guid>https://digitalmediacamsblog.netlify.app/posts/2021-04-29-response-to-documentary-expression-in-thirties-america</guid>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Response to From Dispatches by Michael Herr</title>
+      <dc:creator>Cam</dc:creator>
+      <link>https://digitalmediacamsblog.netlify.app/posts/2021-04-29-response-to-from-dispatches-by-michael-herr</link>
+      <description>A short description of the post.</description>
+      <guid>https://digitalmediacamsblog.netlify.app/posts/2021-04-29-response-to-from-dispatches-by-michael-herr</guid>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experience</title>
+      <dc:creator>Cam</dc:creator>
+      <link>https://digitalmediacamsblog.netlify.app/posts/2021-04-29-experience</link>
+      <description>A short description of the post.</description>
+      <guid>https://digitalmediacamsblog.netlify.app/posts/2021-04-29-experience</guid>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>skills</title>
+      <dc:creator>Cam</dc:creator>
+      <link>https://digitalmediacamsblog.netlify.app/posts/2021-04-26-skills</link>
+      <description>An overview of my professional skills.</description>
+      <guid>https://digitalmediacamsblog.netlify.app/posts/2021-04-26-skills</guid>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome to Cam's Blog</title>
+      <dc:creator>Cam</dc:creator>
+      <link>https://digitalmediacamsblog.netlify.app/posts/welcome</link>
+      <description>Welcome to my new blog, Cam's Blog!</description>
+      <guid>https://digitalmediacamsblog.netlify.app/posts/welcome</guid>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
